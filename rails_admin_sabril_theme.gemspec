@@ -6,7 +6,7 @@ require 'rails_admin_sabril_theme/version'
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = 'rails_admin_sabril_theme'
-  s.version     = RailsAdminSoftwareBrothersTheme::VERSION
+  s.version     = RailsAdminSabrilTheme::VERSION
   s.authors     = ['Syaiful Sabril']
   s.email       = ['syaiful.sabril@gmail.com']
   s.homepage    = 'https://github.com/sabril/rails_admin_sabril_theme'
