@@ -1,4 +1,0 @@
-require 'rails_admin_softwarebrothers_theme/engine'
-
-module RailsAdminSoftwareBrothersTheme
-end
